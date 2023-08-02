@@ -1,0 +1,4 @@
+<script src="/mazer/dist/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+<script src="/mazer/dist/assets/js/bootstrap.bundle.min.js"></script>
+
+<script src="/mazer/dist/assets/js/main.js"></script>
